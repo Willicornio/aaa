@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         textViewIne = findViewById(R.id.numeroIne);
         textViewNameTown = findViewById(R.id.nomMunicipi);
         ivImageFromUrl = findViewById(R.id.escutMunicipi);
-
+//aaq
 
         //Progress loading
 
